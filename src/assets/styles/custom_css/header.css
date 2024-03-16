@@ -1,0 +1,41 @@
+/* header css start */
+.header-container {
+    background: url('../../../../public/images/header_bg.png') #036 center repeat-x;
+    display: block;
+    padding: 0.5rem 0rem;
+}
+
+.menu-container {
+    background: #0b64bd;
+}
+
+.active {
+    color: #f3ff36 !important;
+}
+
+.navbar-nav .nav-item a {
+    font-family: Calibri !important;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    /* letter-spacing: 0.02rem; */
+    margin-right:1rem;
+}
+
+.navbar-nav .nav-item a i {
+    margin-right: 0.2rem;
+}
+
+/* header css end */
+
+
+/* footer css start */
+.footer-container{
+ background-color: #222426;
+ width:100%;
+ height: auto;
+}
+.copy-right{
+    background-color: #1c1c1c;
+}
+/* footer css end */
